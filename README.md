@@ -40,7 +40,7 @@ Edit
 jupyter notebook
 🖼️ Dashboard Preview
 📊 Retail Sales Dashboard Overview
-Screeshot(09).png
+Screeshot(9).png
 📩 Email: rahul8418sharma@gmail.com
 💼 LinkedIn: linkedin.com/in/rahulsharma4410
 
